@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c0fccea-eb47-40b2-a143-2cd3a882ab89" name="Default Changelist" comment="week2_eric" />
+    <list default="true" id="0c0fccea-eb47-40b2-a143-2cd3a882ab89" name="Default Changelist" comment="week2_eric">
+      <change afterPath="$PROJECT_DIR$/1715_카드정렬하기.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +90,7 @@
       <workItem from="1610522046014" duration="622000" />
       <workItem from="1610632075441" duration="33000" />
       <workItem from="1610632482064" duration="6278000" />
+      <workItem from="1610717110965" duration="376000" />
     </task>
     <servers />
   </component>
