@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c0fccea-eb47-40b2-a143-2cd3a882ab89" name="Default Changelist" comment="week2_eric">
-      <change afterPath="$PROJECT_DIR$/1715_카드정렬하기.md" afterDir="false" />
-    </list>
+    <list default="true" id="0c0fccea-eb47-40b2-a143-2cd3a882ab89" name="Default Changelist" comment="1715_카드정렬하기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,8 +88,16 @@
       <workItem from="1610522046014" duration="622000" />
       <workItem from="1610632075441" duration="33000" />
       <workItem from="1610632482064" duration="6278000" />
-      <workItem from="1610717110965" duration="376000" />
+      <workItem from="1610717110965" duration="797000" />
     </task>
+    <task id="LOCAL-00001" summary="1715_카드정렬하기">
+      <created>1610717740056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610717740056</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,7 +117,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="week2_eric" />
-    <option name="LAST_COMMIT_MESSAGE" value="week2_eric" />
+    <MESSAGE value="1715_카드정렬하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="1715_카드정렬하기" />
   </component>
   <component name="WindowStateProjectService">
     <state x="695" y="343" key="#Notifications" timestamp="1610638353861">
